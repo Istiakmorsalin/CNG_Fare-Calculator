@@ -1,0 +1,1 @@
+Recently from 1st October,2015 Government have imposed a new rule regarding the Fare of CNG Autos. This app will work as a CNG meter and If there any complaints about fare, User Can Directly Report From The app.

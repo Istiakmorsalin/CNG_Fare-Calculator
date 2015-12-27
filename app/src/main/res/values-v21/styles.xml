@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+    </style>
+
+    <color name="gray">#eaeaea</color>
+    <color name="titlebackgroundcolor">#00abd7</color>
+    <color name="titlecolor">#d6202b</color>
+</resources>
